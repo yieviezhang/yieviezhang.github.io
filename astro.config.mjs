@@ -4,6 +4,6 @@ import sitemap from '@astrojs/sitemap'
 import tailwind from '@astrojs/tailwind'
 
 export default defineConfig({
-  site: 'https://isyizhang.github.io',
+  site: 'https://yieviezhang.github.io',
   integrations: [mdx(), sitemap(), tailwind()],
 })
